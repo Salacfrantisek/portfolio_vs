@@ -31,5 +31,10 @@ i a:hover:not(.active) {
 }
 
 body {
-    background-color: rgb(66, 44, 58);
+    background-color: rgb(54, 35, 47);
+}
+
+h1 {
+    padding-top: 15%;
+    color: aquamarine;
 }
