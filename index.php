@@ -13,7 +13,8 @@
 <body>
 
     <?php
-    include 'navbar.html'; //Testing my theory
+    include 'navbar.html'; //Testing my theory --> Funguje to lol
+    //Další --> zkusit php include - move project na lampp a zkusit php? 
     ?>
 
 
