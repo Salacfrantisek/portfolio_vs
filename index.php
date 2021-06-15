@@ -1,3 +1,4 @@
+<?php $currentPage="Index"; ?>
 <!DOCTYPE html>
 <html>
 
@@ -13,7 +14,7 @@
 <body>
 
     <?php
-    include 'navbar.html'; //Testing my theory --> Funguje to lol
+    include 'php/navbar.php'; //Testing my theory --> Funguje to lol
     //Další --> zkusit php include - move project na lampp a zkusit php? 
     ?>
 

@@ -1,3 +1,4 @@
+<?php $currentPage="Kontakt"; ?>
 <!DOCTYPE html>
 <html>
 
@@ -13,7 +14,7 @@
 <body>
 
     <?php
-    include 'navbar.html';     
+    include 'php/navbar.php';
     ?>
 
 
@@ -21,7 +22,7 @@
         <br>
 
         <center>
-            <h1> Work in progess </h1>
+            <h1>Kontakt - Work in progess </h1>
         </center>
 </body>
 
