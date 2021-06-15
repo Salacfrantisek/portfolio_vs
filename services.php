@@ -6,18 +6,15 @@
     <meta name="description" content="Portfolio začínajícího programátora(?)">
     <meta name="author" content="František Salač">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>František Salač - Portfolio - Kontakt</title>
+    <title>František Salač - Portfolio - Služby</title>
     <link rel="stylesheet" href="theme.css">
 </head>
 
 <body>
 
-    <ul>
-        <li><a href="index.html">Úvod</a></li>
-        <li><a href="services.html">Služby</a></li>
-        <li><a href="info.html">O mně</a></li>
-        <li><a class="active" href="contact.html">Kontakt</a></li>
-    </ul>
+    <?php
+    include 'navbar.html';     
+    ?>
 
 
     <br>

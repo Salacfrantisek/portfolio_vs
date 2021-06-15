@@ -12,20 +12,17 @@
 
 <body>
 
-    <ul>
-        <li><a href="index.html">Úvod</a></li>
-        <li><a href="services.html">Služby</a></li>
-        <li><a class="active" href="info.html">O mně</a></li>
-        <li><a href="contact.html">Kontakt</a></li>
-    </ul>
+    <?php
+    include 'navbar.html';     
+    ?>
 
 
-    <br>
-    <br>
+        <br>
+        <br>
 
-    <center>
-        <h1> Work in progess </h1>
-    </center>
+        <center>
+            <h1> Work in progess </h1>
+        </center>
 </body>
 
 </html>
