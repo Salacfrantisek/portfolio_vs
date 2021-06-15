@@ -1,7 +1,7 @@
 <!-- Created by, etc.. -->
 <div class="bottomText">
 
-    <p> know a css file can control the format of many html pages - is there an analogy to this that can control the content of many html pages? </p>
+    <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque arcu. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Donec vitae arcu. Donec iaculis gravida nulla. </p>
 
 
 

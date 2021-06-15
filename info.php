@@ -15,6 +15,7 @@
 
     <?php
     include 'php/navbar.php';
+    include 'php/botbar.php';
     ?>
 
 

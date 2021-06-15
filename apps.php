@@ -15,6 +15,7 @@
 
     <?php
     include 'php/navbar.php';
+    include 'php/botbar.php';
     ?>
 
 
@@ -24,7 +25,7 @@
     <center>
         <h1>Aplikace - Work in progess </h1>
     </center>
-    <?php include 'php/botbar.php'; ?>
+    
 </body>
 
 </html>

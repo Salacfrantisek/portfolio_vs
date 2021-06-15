@@ -16,6 +16,7 @@
     <?php
     include 'php/navbar.php'; //Testing my theory --> Funguje to lol
     //Další --> zkusit php include - move project na lampp a zkusit php? 
+    include 'php/botbar.php';
     ?>
 
 
