@@ -1,4 +1,4 @@
-<?php $currentPage="Služby"; ?>
+<?php $currentPage="Aplikace"; ?>
 <!DOCTYPE html>
 <html>
 
