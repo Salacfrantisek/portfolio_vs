@@ -8,6 +8,7 @@ ul {
     top: 0;
     left: 0;
     width: 100%;
+    font-size: large;
 }
 
 li {
@@ -49,4 +50,5 @@ h1 {
     position: fixed;
     color: white;
     text-align: center;
+    font-size: small;
 }
