@@ -14,7 +14,6 @@
 
     <?php
     include 'navbar.html'; //Testing my theory --> Funguje to lol
-    echo '<li><a class="active" href="index.php">Úvod</a></li>'
     //Další --> zkusit php include - move project na lampp a zkusit php? 
     ?>
 
